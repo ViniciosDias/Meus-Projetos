@@ -1,2 +1,2 @@
 # meusprojetos
- Meus materiais e trabalhos pessoais.
+ meus materiais e estudos
